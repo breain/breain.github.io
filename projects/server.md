@@ -11,7 +11,7 @@ labels:
 summary: "A small personal at home server."
 ---
 
-<img class="img-fluid" src="../img/canakit-case.jpg">
+<img class="img-fluid" src="../img/canakit-cased.jpg">
 
 I started this project in the tail end of summer break 2026. I had seen the cool stuff you could do with a server and decided it would be pretty fun to setup and own one! 
 
