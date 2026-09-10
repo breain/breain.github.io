@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/p5js-splash.jpg
 title: "Point and Click Platformer"
 date: 2023
 published: true
@@ -14,9 +14,7 @@ summary: "A mouse based platformer game as a browser game for a high school proj
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="500px" src="../img/p5js_logo.jpeg" class="img-thumbnail" >
 </div>
 
 For my junior year in high school for my programing class my class was given the task of using JavaScript's p5.js to make a website videogame as our final project. My teacher, Mr. Kam, described the most basic kind of video game to make with p5.js would be a platformer like Mario with a character interacting with platforms and jumping around with a basic physics engine, however I wanted to do something different. 
