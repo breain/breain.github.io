@@ -23,4 +23,4 @@ I made a platformer where the mouse is used as the character to do puzzles in a 
 
 I ended up losing the project file due to having coded it on repl.it, the older version of replit.com, a browser based IDE, who deletes untouched data after a year of inactivity. 
 
-You can learn more about [p5js](https://manoa.hawaii.edu/news/article.php?aId=2857) , the JavaScript tool used, here.
+You can learn more about [p5js](https://p5js.org/) , the JavaScript tool used, here.
