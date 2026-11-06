@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Study Spotta"
 date: 2026-11-04
-published: true
+published: false
 labels:
   - Software Engineering
   - Projects
