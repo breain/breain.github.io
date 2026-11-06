@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "final project proposal"
+title: "Final Project Proposal"
 date: 2026-11-05
 published: true
 labels:
@@ -15,6 +15,7 @@ labels:
 ## Overview
 
 <strong>Problem:</strong> Finding study spots on campus outside of the library can be hard, especially if you are looking for a specific vibe or certain amenities. 
+<br></br>
 <strong>Solution:</strong> This application will allow UHM students to ground source a list of “hidden gem” study spots and classify them by amenities and other descriptive labels. Users will be able to view and filter the table of different study spots and they could potentially propose new study spots or leave comments about the quality of the study. 
 
 ## Names of the proposers
