@@ -40,6 +40,7 @@ There will also be functionality to allow users to input additional notes, such 
 - Available seating?
 - Quiet level [scale to 1-5]
 - Upvote/downvote notes
+Users may also work with other users to schedule study groups. 
 Admins will be able to moderate such actions by doing actions such as:
 - Delete malicious user inputed notes 
 - Add notes
@@ -52,6 +53,7 @@ Some of the following are mockup pages for the Study Spottah website are:
 - Page for each study spot with the above data points, directions and user notes
 - Subsection for users to note current conditions of the spot
 - Page for submitting new study spot locations to be added to the website
+- Page for scheduling study groups with other users
 - Admin homepage
 - Page for nearby transit current arrival times
 
@@ -60,6 +62,7 @@ Some of the following are mockup pages for the Study Spottah website are:
 - Users with an account may post notes about current study spot conditions
 - Users with an account may upvote/downvote notes
 - Users with an account may leave reviews or feedback to study spots
+- Users with an account may schedule study groups with other users
 - Admins may edit study spot tags, delete or upload notes and ban users
 
 ## Beyond the Basics
