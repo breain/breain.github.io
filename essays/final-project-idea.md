@@ -15,7 +15,7 @@ labels:
 ## Overview
 
 <strong>Problem:</strong> Finding study spots on campus outside of the library can be hard, especially if you are looking for a specific vibe or certain amenities. 
-<br></br>
+<br>
 <strong>Solution:</strong> This application will allow UHM students to ground source a list of “hidden gem” study spots and classify them by amenities and other descriptive labels. Users will be able to view and filter the table of different study spots and they could potentially propose new study spots or leave comments about the quality of the study. 
 
 ## Names of the proposers
@@ -40,9 +40,12 @@ There will also be functionality to allow users to input additional notes, such 
 - Available seating?
 - Quiet level [scale to 1-5]
 - Upvote/downvote notes
-Users may also work with other users to schedule study groups. 
+Users may also work with other users to schedule study groups: 
+- Users may invite others to schedule a study group up to two months in advance with other users
+- Users may accept or decline study group requests
+- When the study group is nearing, the website will send a notification to their email or phone number
 Admins will be able to moderate such actions by doing actions such as:
-- Delete malicious user inputed notes 
+- Delete malicious user inputed notes
 - Add notes
 - Ban bad actor users
 
@@ -54,6 +57,8 @@ Some of the following are mockup pages for the Study Spottah website are:
 - Subsection for users to note current conditions of the spot
 - Page for submitting new study spot locations to be added to the website
 - Page for scheduling study groups with other users
+- Subsection for accepting study group requests
+- Subsection for seeing current study groups
 - Admin homepage
 - Page for nearby transit current arrival times
 
@@ -69,3 +74,4 @@ Some of the following are mockup pages for the Study Spottah website are:
 Some advanced features after implementing basic features are:
 - Replies to posts
 - Use ArcGIS for maps and transit routes
+- Notifications to other users to make study groups on the fly
